@@ -142,7 +142,7 @@ Se non volete usare un database con il free-tier online, potete usare i containe
 
 * **Expo Docs:** [https://docs.expo.dev/](https://docs.expo.dev/)
 * **React Native Docs:** [https://reactnative.dev/](https://reactnative.dev/)
-* **Ollama Integration Guide:** *(link in arrivo)*
+* **Ollama Integration Guide:** [Video Youtube](https://www.youtube.com/watch?v=kaK3ye8rczA) - [Sito ufficiale](https://ollama.com/) - Guida nell'altro file della repo
 * **Esempi & Tutorial:** `/docs/snippets.md` nel repo
 
 ---
@@ -151,7 +151,7 @@ Se non volete usare un database con il free-tier online, potete usare i containe
 
 Per ogni domanda o supporto:
 
-* **Telegram:** [@viorelss]](https://t.me/viorelss)
+* **Telegram:** [@viorelss]](https://t.me/viorelss/)
 * **Email:** [viorelss@icloud.com](mailto:viorelss@icloud.com)
 * **LinkedIn:** [Viorel](https://www.linkedin.com/in/viorelss/)
 

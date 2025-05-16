@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ollama/ollama/main/assets/ollama-logo.png" alt="Ollama Logo" width="120" />
-</p>
-
 # 🦙 Integrazione di Ollama in React Native
 
 Questa guida fornisce tutto i basics per sfruttare i modelli di Ollama in un’app React Native, con snippet pronti all’uso.

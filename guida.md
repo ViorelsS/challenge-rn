@@ -158,7 +158,7 @@ Avvia Expo:
 bunx expo       # oppure: npx expo start
 ```
 
-Nota: su windows potresti avere problemi a collegarti ad Expo go con il qr code: in questo caso conviene installare subito le dipendenze di grok con `bun install @expo/grok` e runnare l'applicazione con `bunx expo start --tunnel` (Per qualche strana ragione se inserisci il flag _--tunnel_ dentro lo script nel package.json non funziona). Potrebbero volerci un paio di riavvii dell'applicazione prima di riuscire a collegarsi.
+Nota: su windows potresti avere problemi a collegarti ad Expo go con il qr code: in questo caso conviene installare subito le dipendenze di ngrok con `bun install @expo/ngrok` e runnare l'applicazione con `bunx expo start --tunnel` (Per qualche strana ragione se inserisci il flag _--tunnel_ dentro lo script nel package.json non funziona). Potrebbero volerci un paio di riavvii dell'applicazione prima di riuscire a collegarsi.
 
 > 📱 Apri l’app su **Expo Go** scansionando il QR code, oppure esegui su emulatore.
 

@@ -1748,3 +1748,12 @@ app.get("/me", auth.requireAuth, (req, res) => {
 
 15. **Stile neutro e moderno**
     - `rounded-xl`, `shadow-md`, `bg-white/90`, `text-gray-700`, `gap-4`, emoji o micrografica per calore visivo.
+
+
+
+----
+
+## 🪅 UI KIT
+[Componenti iOS 18](https://www.figma.com/design/OJQ4Buz60ScFlQBFeT1AMo/iOS-18-and-iPadOS-18--Community-?node-id=221-56229&p=f&t=YFLOxku6fGcn7BFP-0)
+[Chat app](https://www.figma.com/design/JyfxE8NkkW1j1ZrJc9MSs5/Simple-Chat-App-Design--Community---Copy-?node-id=1-7&p=f&t=YFLOxku6fGcn7BFP-0)
+[Minimal](https://www.figma.com/design/28D5Q9IFheQnB8rx7q6dQb/Minima-App-Design--Community---Copy-?node-id=0-1&p=f&t=YFLOxku6fGcn7BFP-0)

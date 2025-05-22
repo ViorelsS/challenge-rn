@@ -224,6 +224,7 @@ Puoi personalizzarla come preferisci, ma è importante mantenere:
 | `tsconfig.json`      | Configurazione TypeScript                                        |
 
 ---
+Per far funzionare l'applicazione con rn-new, a volte c'è un mismatch di versione di reanimated. Nell'array di plugin inserite `react-native-reanimated/plugin`
 
 ---
 

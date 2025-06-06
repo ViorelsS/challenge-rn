@@ -1,7 +1,7 @@
 
 # JEToP Mobile Dev Challenge ’25
 
-**Data di consegna:** Martedì 3 Giugno 2025, ore 12:00  
+**Data di consegna:** Venerdì 6 Giugno 2025, ore 18:00  
 **Presentatore / Referente:** Viorel Strogoteanu – Software Developer @ deda.bit  
 **Canale di supporto:** Telegram @viorelss (tutte le sere fino alla consegna)
 
@@ -128,8 +128,8 @@ Se non volete usare un database con il free-tier online, potete usare i containe
 | ----------------------- | --------------------------------------------- | --------------------------- |
 | **Kickoff & Briefing**  | Consegna brief + Q\&A                         | Oggi                        |
 | **Development Sprint**  | Prototype e implementazione funzionalità base | 1–2 giorni dal kickoff      |
-| **Check-in One-to-One** | Supporto individuale su Telegram              | Ogni sera fino al 26 Maggio |
-| **Consegna Finale**     | Repo + slide con screenshot + demo            | Lunedì 26 Maggio, ore 12:00 |
+| **Check-in One-to-One** | Supporto individuale su Telegram              | Ogni sera fino al 6 Giugno  |
+| **Consegna Finale**     | Repo + slide con screenshot + demo            | Venerdì 6 Giugno, ore 18:00 |
 
 **Consegna:**
 
